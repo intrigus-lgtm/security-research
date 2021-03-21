@@ -1,8 +1,8 @@
-# Jonathan Leitschuh - Security Research
+# intrigus-lgtm - Security Research
 
 Public disclosure channel for disclosing security vulnerabilities I've discovered.
 
-[Take me to the research!](https://github.com/JLLeitschuh/security-research/security/advisories)
+[Take me to the research!](https://github.com/intrigus-lgtm/security-research/security/advisories)
 
 ## Why
 
@@ -15,6 +15,7 @@ The goal of this repository is to invert the relationship. I create advisories, 
 Should the maintainer wish to move the discussion/fix/disclosure to a GitHub Security Advisory against their own repository, I'm happy to do that.
 However, this channel provides an easy way for me to enforce my disclosure policy in a consistent and fair way.
 
+
 ## My Disclosure Policy
 
-**My vulnerability disclosure follows Google's [90-day vulnerability disclosure policy](https://www.google.com/about/appsecurity/) (I'm not an employee of Google, I just like their policy). Full disclosure will occur either at the end of the 90-day deadline or whenever a patch is made widely available, whichever occurs first.**
+**My vulnerability disclosure follows the GitHub Security Lab [vulnerability disclosure policy](https://securitylab.github.com/advisories#policy) (I'm not an employee of Github, I just like their policy).**
